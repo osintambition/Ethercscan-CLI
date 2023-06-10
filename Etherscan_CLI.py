@@ -12,7 +12,7 @@ print()
 print(colored("Developed by:", "cyan", attrs=["bold"]))
 print(colored("OSINTAMBITION(@osintambition)", "cyan",attrs=["bold"]))
 # Print the purpose of the program
-print("Usage - For checking if the cryptocurrenvy address is suspicious or not")
+print("Usage - Gathering information about a etherum address")
 print()
 print()
 
