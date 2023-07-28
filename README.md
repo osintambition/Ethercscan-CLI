@@ -10,7 +10,7 @@ This is a simple to use tool for gathering information about a ethereum address 
 
 ## Authors
 
-- [@MrKingAnubis](https://github.com/MrKingAnubis)
+- [@swayamsopnic](https://github.com/swayamsopnic)
 - [@dheerajydv19](https://www.github.com/dheerajydv19)
 
 
